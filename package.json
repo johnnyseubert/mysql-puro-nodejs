@@ -1,0 +1,15 @@
+{
+   "name": "api-com-query",
+   "version": "1.0.0",
+   "main": "server.js",
+   "scripts": {
+      "start": "nodemon src/server.js"
+   },
+   "license": "ISC",
+   "dependencies": {
+      "mysql2": "^2.3.3"
+   },
+   "devDependencies": {
+      "nodemon": "^2.0.19"
+   }
+}
